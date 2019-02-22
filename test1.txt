@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9ADB-44E6
+
+ Directory of C:\Users\Nick.Hagen\Desktop\rh_git
+
+02/22/2019  07:53 AM    <DIR>          .
+02/22/2019  07:53 AM    <DIR>          ..
+02/22/2019  07:53 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  356,191,805,440 bytes free
